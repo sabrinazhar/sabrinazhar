@@ -1,9 +1,9 @@
 ## 🧕🏻 About Me
 
 👋🏻 Hi, I'm Sabrina! 
-- 🎓 I'm studying MEng, BSc Computer Science with Artificial Intelligence in University of Leeds and expected to graduate in July 2026.
-- 🤔 I'm interested to pursue a career in **Software Engineering**, **Software Development**, and **Data Science**.
-- 💡 I’m currently building projects to strengthen my problem-solving and hands-on development skills.
+- 🎓 Currently pursuing MEng, BSc Computer Science with Artificial Intelligence at the University of Leeds, graduating in July 2026.
+- 🤔 Passionate about pursuing a career in Software Engineering, Software Development, and Data Science.
+- 💡 Building projects to strengthen my problem-solving and hands-on development skills.
 
 ---
 
@@ -35,15 +35,12 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="50"/>](https://scikit-learn.org/)
 
 #### ⚙️ Tools & Platforms
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50"/>](https://git-scm.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50"/>](https://github.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50"/>](https://www.docker.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="50"/>](https://www.postman.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50"/>](https://code.visualstudio.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50"/>](https://jupyter.org/)
 
 #### 🗃 Databases
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50"/>](https://www.mysql.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50"/>](https://www.postgresql.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50"/>](https://www.mongodb.com/)
 
@@ -51,5 +48,5 @@
 
 ## 🌱 Outside of Code
 - 🎥 I enjoy expressing creativity through video editing and digital content creation.
-- 🗣️ I’m passionate about learning new languages and exploring different cultures.
+- 🗣️ Passionate about learning new languages and exploring different cultures.
 - 💡 I love brainstorming and developing innovative ideas that bring a fresh perspective to projects.
