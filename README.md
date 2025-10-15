@@ -5,15 +5,13 @@
 - 🤔 Passionate about pursuing a career in Software Engineering, Software Development, and Data Science.
 - 💡 Building projects to strengthen my problem-solving and hands-on development skills.
 
----
 
 ## 🚀 Projects 
 - Here’s a collection of the projects I’ve built fduring my personal time and in university.  
 - Each project reflects my passion for learning, problem-solving, and building software that makes an impact.  
 
-👉 [Explore my project portfolio here.](https://github.com/yourusername/your-portfolio-repo)
+👉 [Explore my project portfolio here.](https://github.com/sabrinazhar/portfolio)
 
----
 
 ## 🧠 Technical Skills
 
@@ -44,9 +42,15 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50"/>](https://www.postgresql.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50"/>](https://www.mongodb.com/)
 
----
 
 ## 🌱 Outside of Code
 - 🎥 I enjoy expressing creativity through video editing and digital content creation.
 - 🗣️ Passionate about learning new languages and exploring different cultures.
 - 💡 I love brainstorming and developing innovative ideas that bring a fresh perspective to projects.
+
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sabrinazhar)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/sabrinazhar)
+[![Email](https://img.shields.io/badge/Email-gray?style=flat&logo=gmail)](mailto:nursabrinazhar@yahoo.com)
+
