@@ -1,70 +1,55 @@
-# 👋 Hi, I'm Sabrina
+## 🧕🏻 About Me
 
-## About Me
-
-🎓 **MEng, BSc Computer Science with Artificial Intelligence**  
-University of Leeds | Expected Graduation: 2026  
-
-💡 I’m passionate about building intelligent, scalable, and user-focused software.  
-My main interests are in **Software Engineering**, **Machine Learning**, and **Data Science**.  
-I also explore **Quality Assurance** and testing practices to improve software reliability.
+👋🏻 Hi, I'm Sabrina! 
+- 🎓 I'm studying MEng, BSc Computer Science with Artificial Intelligence in University of Leeds and expected to graduate in July 2026.
+- 🤔 I'm interested to pursue a career in **Software Engineering**, **Software Development**, and **Data Science**.
+- 💡 I’m currently building projects to strengthen my problem-solving and hands-on development skills.
 
 ---
 
-### 🧠 Technical Skills
+## 🚀 Projects 
+- Here’s a collection of the projects I’ve built fduring my personal time and in university.  
+- Each project reflects my passion for learning, problem-solving, and building software that makes an impact.  
 
-**Programming Languages:** Python, Java, JavaScript, SQL, C  
-**Frameworks & Libraries:** Django, Flask, React, Node.js, Pandas, NumPy, TensorFlow, Scikit-learn  
-**Tools & Platforms:** Git, GitHub, Docker, Postman, VS Code, Jupyter Notebook  
-**Databases:** MySQL, PostgreSQL, MongoDB  
-**Other Skills:** REST API design, Unit testing, Agile development, Data visualization
+👉 [Explore my project portfolio here.](https://github.com/yourusername/your-portfolio-repo)
 
 ---
 
-### 🚀 Featured Projects
+## 🧠 Technical Skills
 
-#### 🧬 Skin Disease Classification using Deep Learning  
-- Built a CNN-based image classifier using **MobileNetV2** and **ResNet50**.  
-- Applied **data augmentation**, **attention mechanisms**, and **transfer learning** for optimization.  
-- Achieved strong classification accuracy on dermatological image datasets.  
-- **Tech:** Python, TensorFlow, Keras, OpenCV  
+#### 🧩 Programming Languages
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"/>](https://www.python.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50"/>](https://www.java.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50"/>](https://en.wikipedia.org/wiki/C_(programming_language))
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="50"/>](https://www.mysql.com/)
 
-#### 🌍 Professor Rating System (Django + REST API)  
-- Developed a full-stack system for students to rate professors and view analytics.  
-- Implemented **user authentication**, **REST APIs**, and **search/filter** functions.  
-- **Tech:** Python, Django, REST Framework, HTML/CSS, SQLite  
+#### 🧱 Frameworks & Libraries
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="50"/>](https://www.djangoproject.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="50"/>](https://flask.palletsprojects.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50"/>](https://react.dev/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50"/>](https://nodejs.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50"/>](https://www.tensorflow.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50"/>](https://numpy.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50"/>](https://pandas.pydata.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="50"/>](https://scikit-learn.org/)
 
-#### 🤖 Robotic Motion Planning using ML & Optimization  
-- Combined **machine learning** and **trajectory optimization** for robot control.  
-- Integrated **PCA and basis functions** for 3D motion analysis.  
-- **Tech:** Python, NumPy, SciPy, Matplotlib  
+#### ⚙️ Tools & Platforms
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50"/>](https://git-scm.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50"/>](https://github.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50"/>](https://www.docker.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="50"/>](https://www.postman.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50"/>](https://code.visualstudio.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50"/>](https://jupyter.org/)
 
-#### 📈 Music Store Data Analysis using SQL  
-- Designed SQL queries to analyze sales performance and customer trends.  
-- Showcased **data manipulation**, **joins**, and **aggregation functions**.  
-- **Tech:** MySQL  
-
-#### 💾 Multi-Threaded File Transfer System (Java)  
-- Built a client-server system for concurrent file transfer with **multi-threading**.  
-- Implemented synchronization and socket programming concepts.  
-- **Tech:** Java  
-
----
-
-### 🧭 Currently Exploring
-- Cloud deployment with **AWS / Azure**  
-- **CI/CD pipelines** and automated testing  
-- **End-to-end ML pipelines** for real-world datasets  
+#### 🗃 Databases
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50"/>](https://www.mysql.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50"/>](https://www.postgresql.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50"/>](https://www.mongodb.com/)
 
 ---
 
-### 🌱 Outside of Code
-- 📚 I enjoy learning about **AI applications in healthcare and sustainability**.  
-- 💬 I like writing about my learning journey on GitHub and LinkedIn.  
-- ☕ Always open to collaborating on interesting software or data projects!
-
----
-
-### 📫 Get in Touch
-- 📧 Email: nursabrinazhar@yahoo.com
-- 💼 LinkedIn: https://www.linkedin.com/in/sabrinazhar 
+## 🌱 Outside of Code
+- 🎥 I enjoy expressing creativity through video editing and digital content creation.
+- 🗣️ I’m passionate about learning new languages and exploring different cultures.
+- 💡 I love brainstorming and developing innovative ideas that bring a fresh perspective to projects.
