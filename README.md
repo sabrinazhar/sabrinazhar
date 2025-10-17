@@ -7,7 +7,7 @@
 
 
 ## 🚀 Projects 
-- Here’s a collection of the projects I’ve built fduring my personal time and in university.  
+- Here’s a collection of the projects I’ve built during my personal time and in university.  
 - Each project reflects my passion for learning, problem-solving, and building software that makes an impact.  
 
 👉 [Explore my project portfolio here.](https://github.com/sabrinazhar/portfolio)
